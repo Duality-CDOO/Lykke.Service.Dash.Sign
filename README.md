@@ -1,1 +1,1 @@
-# Lykke.Service.Dynamic.Sign
+# Lykke.Service.Sequence.Sign
